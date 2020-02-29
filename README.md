@@ -1,3 +1,11 @@
+<!--
+ * @version: v0.0.1
+ * @Author: hailong.chen
+ * @Date: 2020-03-01 01:12:11
+ * @LastEditors: hailong.chen
+ * @LastEditTime: 2020-03-01 01:32:26
+ * @Descripttion: 
+ -->
 # electron-vuecli
 
 ## Project setup
@@ -18,6 +26,14 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+### electron serve
+```
+yarn electron:serve
+```
+###  electron build
+```
+yarn electron:build
 ```
 
 ### Customize configuration
