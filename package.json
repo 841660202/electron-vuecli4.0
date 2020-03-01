@@ -1,7 +1,9 @@
 {
-  "name": "electron-vuecli",
-  "version": "0.1.0",
+  "name": "fhl",
+  "version": "0.1.2",
   "private": true,
+  "description": "风火轮桌面端",
+  "author": "halou",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
